@@ -1,0 +1,5 @@
+examauction\com\entitys\Item.class
+examauction\com\helper\ItemService.class
+examauction\com\controller\ViewController.class
+examauction\com\auctiondata\AuctionData.class
+examauction\com\entitys\Bidder.class
